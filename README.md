@@ -1,16 +1,23 @@
-### Hi there 👋
+<p>‎</p>
 
-<!--
-**Jrmymln/Jrmymln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div>
+  <img src="https://github.com/Jrmymln/Jrmymln/blob/main/Profile.png" width="128" height="128" align="left" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```diff
+NAME: Jeremy Malana
+
+I am a 17-year-old Student of ICT BestLink College Of The Philippines.
+```
+
+<p align="left">
+
+<a href="https://github.com/Jrmymln" target="_blank"><img alt="" src="https://img.shields.io/badge/Github-000?logo=github&logoColor=white&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://discordapp.com/users/853473852930916352" target="_blank"><img alt="" src="https://img.shields.io/badge/Discord-000?logo=discord&logoColor=blue&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://web.facebook.com/c0d3xxx" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?logo=facebook&logoColor=blue&style=for-the-badge" style="vertical-align:center" /></a>
+
+ <p align='left'><img src="https://komarev.com/ghpvc/?username=0xbitx&label=Total%20Profile%20Visitor&color=ef1023&style=for-the-badge" alt="0xbitx" /><br>
+
+
+
